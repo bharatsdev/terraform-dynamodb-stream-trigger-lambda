@@ -5,7 +5,7 @@ exports.handler = function (event, context, callback) {
     event.Records.forEach(function (record) {
         console.log(record.eventID);
         console.log(record.eventName);
-        console.log('DynamoDB Record: %j', record.dynamodb);
+        console.log('Data Record: %j', record.dynamodb);
     });
     callback(null, "message");
 };
