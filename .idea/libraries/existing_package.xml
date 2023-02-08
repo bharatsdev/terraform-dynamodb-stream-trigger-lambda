@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="existing_package">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/.terraform/modules/lambda/examples/fixtures/python3.8-zip/existing_package.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

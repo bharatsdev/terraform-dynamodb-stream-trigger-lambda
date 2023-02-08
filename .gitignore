@@ -2,3 +2,4 @@
 /builds/
 /terraform.tfstate.backup
 /terraform.tfstate
+/.idea/*

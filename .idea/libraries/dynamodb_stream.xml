@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="dynamodb_stream">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dynamodb_stream/dynamodb_stream.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
