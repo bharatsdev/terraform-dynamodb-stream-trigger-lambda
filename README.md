@@ -1,4 +1,7 @@
-# Deploy DynamoDB  and Lambda with Terraform.
+# Dynamodb stream integration with lambda using Terraform IaC.
+
+This repoisitory has code for generating dynamod db table and integrating the dynamodb stream with lambda funcaiton.  
+We are using Terraform as well not freamwork for Infrastructre as code. 
 - Integrate dyanmodb stream as labmda trigger
 
 Terraform 
